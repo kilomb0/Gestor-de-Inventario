@@ -1,1 +1,2 @@
 # VisualStudio_GestionInventario-MySQL-
+Desarrollé un sistema de gestión de inventario utilizando C# y MySQL para resolver problemas de organización en entornos minoristas. La solución implementa control de stock en tiempo real, automatización de reposición y prevención de desbalances de inventario, demostrando capacidad para crear aplicaciones de escritorio completas que integran lógica de programación con gestión de bases de datos.
